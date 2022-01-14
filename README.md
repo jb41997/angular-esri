@@ -1,6 +1,6 @@
 # Angular-ESRI
 
-Testing out an ESRI web-map viewer demonstrating various layers and drawing capabilities. Built using Angular Framework.
+Testing out an ESRI web-map viewer functionality and demonstrating various layers and drawing capabilities. Built using Angular Framework. Based on: https://github.com/Esri/angular-cli-esri-map 
 
 
 
