@@ -1,4 +1,9 @@
-# AngularLeaflet
+# Angular-ESRI
+
+Testing out an ESRI web-map viewer demonstrating various layers and drawing capabilities. Built using Angular Framework.
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
